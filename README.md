@@ -18,17 +18,22 @@ It demonstrates how to manage private account data securely with deposit, withdr
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
-   git clone https://github.com/reazulislam1487/mini-banking-project-using-oop-with-express
-   cd mini-banking-project-using-oop-with-express
+
+- git clone https://github.com/reazulislam1487/mini-banking-project-using-oop-with-express
+
+- cd mini-banking-project-using-oop-with-express
 
 2. Install dependencies:
-   npm install express
+
+- npm install express
 
 3. Run the server:
-   node index.js
+
+- node index.js
 
 4. Server will start at:
-   http://localhost:5000
+
+- http://localhost:5000
 
 ---
 
@@ -57,4 +62,6 @@ It demonstrates how to manage private account data securely with deposit, withdr
 ---
 
 👨‍💻 Author: Reazul Islam Reaz
-\*/
+
+- Phone : +8801770807782
+  \*/

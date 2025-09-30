@@ -1,0 +1,3 @@
+node_modules/
+oop-4-pillar
+git rm -r --cached oop-4-pillar
